@@ -32,6 +32,7 @@ section {
       }
 
       &.page {
+        outline: solid 1px red;
         min-height: 700px;
       }
     }
