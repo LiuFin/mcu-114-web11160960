@@ -19,7 +19,7 @@ header {
 
   nav {
     display: var(--nav-display);
-    gap: 1.5rem;
+    gap: var(--nav-gap);
 
     .active {
       position: relative;
